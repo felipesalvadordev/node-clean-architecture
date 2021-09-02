@@ -6,7 +6,7 @@ const UserRepository = require('../../domain/UserRepository');
 module.exports = class extends UserRepository {
 
   _initializeRepositoryWithTwoUsers() {
-    const test = new User(null, 'Teste', 'Teste', 'teste@gmail.com', '123456');
+    const test = new User(null, 'Felipe', 'Salvador', 'teste@gmail.com', '123456');
     this.persist(test);
   }
 
