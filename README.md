@@ -1,6 +1,6 @@
 # node-clean-architecture
 
-API em Node JS utilizando princípios da Clean Architecture
+API in Node JS using Clean Architecture principles
 
 Referência:
 https://github.com/jbuget/nodejs-clean-architecture-app
