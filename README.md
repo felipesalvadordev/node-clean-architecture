@@ -1,7 +1,5 @@
 # node-clean-architecture
 
-![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)
-
 A RESTful API built with **Node.js** and **Hapi.js** following **Clean Architecture** and **Domain-Driven Design (DDD)** principles.
 
 ## Overview
@@ -71,7 +69,3 @@ The project follows Clean Architecture principles with clear separation of conce
 
 This project is based on the architecture pattern from:
 https://github.com/jbuget/nodejs-clean-architecture-app
-
-## License
-
-ISC
